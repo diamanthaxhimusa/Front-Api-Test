@@ -31,7 +31,8 @@
       "category": "Showbiz"
     }
   ],
-  "coins-market": [
+  "coins-market": {
+    "coins": [
     {
       "coins": 500,
       "price": 3
